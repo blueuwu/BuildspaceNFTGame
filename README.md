@@ -7,7 +7,7 @@
 
 ![](public/assets/LandingPage.png)
 
-### ✨ [Demo](https://pokemonnft.vercel.app/)
+### ✨ [Demo](https://buildspace-nft-game-orpin.vercel.app/)
 
 ## Install
 
